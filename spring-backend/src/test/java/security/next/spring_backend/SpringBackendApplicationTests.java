@@ -1,10 +1,10 @@
-package next.next_spring_security;
+package security.next.spring_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NextSpringSecurityApplicationTests {
+class SpringBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

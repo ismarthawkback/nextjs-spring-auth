@@ -8,10 +8,10 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>next</groupId>
-	<artifactId>next-spring-security</artifactId>
+	<groupId>security.next</groupId>
+	<artifactId>spring-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>next-spring-security</name>
+	<name>spring-backend</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

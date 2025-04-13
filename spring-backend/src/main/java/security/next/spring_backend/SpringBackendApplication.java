@@ -1,13 +1,13 @@
-package next.next_spring_security;
+package security.next.spring_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NextSpringSecurityApplication {
+public class SpringBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NextSpringSecurityApplication.class, args);
+		SpringApplication.run(SpringBackendApplication.class, args);
 	}
 
 }
